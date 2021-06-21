@@ -1,0 +1,12 @@
+C:\Users\T-Gamer\Desktop\Paralelismo-com-CSharp-e-.NET-master\ByteBank.Core\bin\Debug\ByteBank.Core.dll
+C:\Users\T-Gamer\Desktop\Paralelismo-com-CSharp-e-.NET-master\ByteBank.Core\bin\Debug\ByteBank.Core.pdb
+C:\Users\T-Gamer\Desktop\Paralelismo-com-CSharp-e-.NET-master\ByteBank.Core\obj\Debug\ByteBank.Core.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Paralelismo-com-CSharp-e-.NET-master\ByteBank.Core\obj\Debug\ByteBank.Core.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Paralelismo-com-CSharp-e-.NET-master\ByteBank.Core\obj\Debug\ByteBank.Core.dll
+C:\Users\T-Gamer\Desktop\Paralelismo-com-CSharp-e-.NET-master\ByteBank.Core\obj\Debug\ByteBank.Core.pdb
+C:\Users\T-Gamer\Desktop\Paralelismo\ByteBank.Core\bin\Debug\ByteBank.Core.dll
+C:\Users\T-Gamer\Desktop\Paralelismo\ByteBank.Core\bin\Debug\ByteBank.Core.pdb
+C:\Users\T-Gamer\Desktop\Paralelismo\ByteBank.Core\obj\Debug\ByteBank.Core.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Paralelismo\ByteBank.Core\obj\Debug\ByteBank.Core.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Paralelismo\ByteBank.Core\obj\Debug\ByteBank.Core.dll
+C:\Users\T-Gamer\Desktop\Paralelismo\ByteBank.Core\obj\Debug\ByteBank.Core.pdb
